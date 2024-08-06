@@ -1,0 +1,18 @@
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.csproj.AssemblyReference.cache
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.AssemblyInfoInputs.cache
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.AssemblyInfo.cs
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.csproj.CoreCompileInputs.cache
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Books Management System.exe
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Books Management System.deps.json
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Books Management System.runtimeconfig.json
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Books Management System.dll
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Books Management System.pdb
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Entitys.dll
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\bin\Debug\net6.0\Entitys.pdb
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.csproj.CopyComplete
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.dll
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\refint\Books Management System.dll
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.pdb
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\Books Management System.genruntimeconfig.cache
+F:\.NET TRACK\Assignments\OOP\Books Management System\Books Management System\obj\Debug\net6.0\ref\Books Management System.dll
